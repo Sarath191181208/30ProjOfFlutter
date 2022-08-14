@@ -7,3 +7,7 @@ A random name generator using cubits
 ScreenShot:
 
 ![img of Project 1](./images/Day%201.png)
+
+## Project 2
+
+A Player controller using cubits
