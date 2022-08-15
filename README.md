@@ -11,3 +11,13 @@ ScreenShot:
 ## Project 2
 
 A Player controller using cubits
+
+ScreenShot:
+![img of Project 2](./images/Day%202.png)
+
+### Project 3
+
+A resizing text field which changes using a slider & a button to speak aloud and sliders to adjust the voice.
+
+ScreenShot:
+![Img of Project 3](./images/Day%203.png)
