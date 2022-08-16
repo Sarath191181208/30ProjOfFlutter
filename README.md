@@ -21,3 +21,13 @@ A resizing text field which changes using a slider & a button to speak aloud and
 
 ScreenShot:
 ![Img of Project 3](./images/Day%203.png)
+
+### Project 4
+
+A flash card app.
+
+- Stores in local storage
+- Tap the question to see the ans
+
+  ScreenShot:
+  ![Img of Project 4](./images/Day%204.png)
